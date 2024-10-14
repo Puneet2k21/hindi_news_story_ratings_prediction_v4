@@ -9,7 +9,7 @@ credentials:
       name: "a55c395eb54ba89251cbc181be01602e0da3b27d1e62db10b82b6f23d499eca4"
       password: "$2b$12$ETsvYW2QFcMEsTzjapLCoOknuzKqTLkbK7ggiyEIu.pIK5uNN9HJS"
       role: "user"
-      email: "dr.shruti.sah@gmail.com"  # Add email field
+      email: "a55c395eb54ba89251cbc181be01602e0da3b27d1e62db10b82b6f23d499eca4"  # Add email field
     puneet2k21@gmail.com:
       name: "Puneet Sah"
       password: "$2b$12$t/3puaXFrj8oDpWDAYnT7uKqO39UaZuAUSor.mkTpXQOhWeSwUUuW"
