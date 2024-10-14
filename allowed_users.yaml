@@ -5,11 +5,11 @@ credentials:
       password: "$2b$12$t/3puaXFrj8oDpWDAYnT7uKqO39UaZuAUSor.mkTpXQOhWeSwUUuW"
       role: "admin"
       email: "puneet2k21@yahoo.com"  # Add email field
-    32a77a7d2b03aebfd9e1dd353648f924807884f034c2f71b8826c906e03f365d:
-      name: "a55c395eb54ba89251cbc181be01602e0da3b27d1e62db10b82b6f23d499eca4"
-      password: "$2b$12$ETsvYW2QFcMEsTzjapLCoOknuzKqTLkbK7ggiyEIu.pIK5uNN9HJS"
+    dr.shruti.sah@gmail.com:
+      name: "Shruti Sah"
+      password: "$2b$12$U8P1ha0o6klHtUs02sy5Ae3ORztADX/qalUan16GossMUa5ucDQxO"
       role: "user"
-      email: "a55c395eb54ba89251cbc181be01602e0da3b27d1e62db10b82b6f23d499eca4"  # Add email field
+      email: "dr.shruti.sah@gmail.com"  # Add email field
     puneet2k21@gmail.com:
       name: "Puneet Sah"
       password: "$2b$12$t/3puaXFrj8oDpWDAYnT7uKqO39UaZuAUSor.mkTpXQOhWeSwUUuW"
