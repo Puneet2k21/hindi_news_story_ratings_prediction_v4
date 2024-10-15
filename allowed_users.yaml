@@ -1,20 +1,34 @@
 credentials:
   usernames:
-    puneet2k21@yahoo.com:
+    Puneet:
       name: "Puneet Sah"
       password: "$2b$12$t/3puaXFrj8oDpWDAYnT7uKqO39UaZuAUSor.mkTpXQOhWeSwUUuW"
       role: "admin"
-      email: "puneet2k21@yahoo.com"  # Add email field
-    dr.shruti.sah@gmail.com:
+      email: "xyz@yahoo.com"  # Add email field
+    Shruti
       name: "Shruti Sah"
       password: "$2b$12$U8P1ha0o6klHtUs02sy5Ae3ORztADX/qalUan16GossMUa5ucDQxO"
       role: "user"
-      email: "dr.shruti.sah@gmail.com"  # Add email field
-    puneet2k21@gmail.com:
-      name: "Puneet Sah"
-      password: "$2b$12$t/3puaXFrj8oDpWDAYnT7uKqO39UaZuAUSor.mkTpXQOhWeSwUUuW"
-      role: "admin"
-      email: "puneet2k21@gmail.com"  # Add email field
-
+      email: "xyz@yahoo.com"  # Add email field
+    Ranjit:
+      name: "Ranjit Kumar"
+      password: "$2b$12$MvdHWk440pixvzCvXMXMBukHr074uylEd.5OxcKS2jaSDk/Z1aXJ."
+      role: "user"
+      email: "xyz@yahoo.com"  # Add email field
+    Satya:
+      name: "Satya Prakash"
+      password: "$2b$12$0rN713ztauN1Zh5jZlLMxO2eG0WNlkw6X75o3XXf3v8mfjWsQ5n/q."
+      role: "user"
+      email: "xyz@yahoo.com"  # Add email field
+    Sushant:
+      name: "Sushant"
+      password: "$2b$12$q3QJQQHh9Kdzk4KaoK241u5TGry1YdES9NQZDryyw1ZPZXUb3RjAa"
+      role: "user"
+      email: "xyz@yahoo.com"  # Add email field
+    Ashwin:
+      name: "Ashwin Vyas"
+      password: "$2b$12$eto8XIWlyzmviKKom4eBDOe6JtCh0HO7mcS1Bd.RtnlCfSC5GIQKu"
+      role: "user"
+      email: "xyz@yahoo.com"  # Add email field
 blocked_users:
-  - preraksah0108@gmail.com
+  - xyz1@gmail.com
