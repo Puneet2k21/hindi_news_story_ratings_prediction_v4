@@ -5,7 +5,7 @@ credentials:
       password: "$2b$12$t/3puaXFrj8oDpWDAYnT7uKqO39UaZuAUSor.mkTpXQOhWeSwUUuW"
       role: "admin"
       email: "xyz@yahoo.com"  # Add email field
-    Shruti
+    Shruti:
       name: "Shruti Sah"
       password: "$2b$12$U8P1ha0o6klHtUs02sy5Ae3ORztADX/qalUan16GossMUa5ucDQxO"
       role: "user"
