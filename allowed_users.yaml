@@ -17,7 +17,7 @@ credentials:
       email: "xyz@yahoo.com"  # Add email field
     Satya:
       name: "Satya Prakash"
-      password: "$2b$12$0rN713ztauN1Zh5jZlLMxO2eG0WNlkw6X75o3XXf3v8mfjWsQ5n/q."
+      password: "$2b$12$0rN713ztauN1Zh5jZlLMxO2eG0WNlkw6X75o3XXf3v8mfjWsQ5n/q"
       role: "user"
       email: "xyz@yahoo.com"  # Add email field
     Sushant:
