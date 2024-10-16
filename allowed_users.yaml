@@ -1,34 +1,53 @@
 credentials:
   usernames:
-    Puneet:
+    Puneet2k21@yahoo.com:
       name: "Puneet Sah"
       password: "$2b$12$t/3puaXFrj8oDpWDAYnT7uKqO39UaZuAUSor.mkTpXQOhWeSwUUuW"
       role: "admin"
-      email: "xyz@yahoo.com"  # Add email field
-    Shruti:
+      email: "puneet2k21@yahoo.com"  # Add email field
+    admin@gmail.com:
+      name: "Admin"
+      password: "$2b$12$lOsrToZfYG3HDU5G6HEE..tg.F96dVE6cFwojk.yRPxG5Z1Rv2PJq"
+      role: "admin"
+      email: "admin@gmail.com"  # Add email field
+    shruti@gmail.com:
       name: "Shruti Sah"
       password: "$2b$12$U8P1ha0o6klHtUs02sy5Ae3ORztADX/qalUan16GossMUa5ucDQxO"
       role: "user"
-      email: "xyz@yahoo.com"  # Add email field
-    Ranjit:
+      email: "Shruti@gmail.com"  # Add email field
+    ranjit@gmail.com:
       name: "Ranjit Kumar"
       password: "$2b$12$MvdHWk440pixvzCvXMXMBukHr074uylEd.5OxcKS2jaSDk/Z1aXJ."
       role: "user"
-      email: "xyz@yahoo.com"  # Add email field
-    Satya:
+      email: "ranjit@gmail.com"  # Add email field
+    satya@gmail.com:
       name: "Satya Prakash"
       password: "$2b$12$0rN713ztauN1Zh5jZlLMxO2eG0WNlkw6X75o3XXf3v8mfjWsQ5n/q"
       role: "user"
-      email: "xyz@yahoo.com"  # Add email field
-    Sushant:
+      email: "satya@gmail.com"  # Add email field
+    sushant@gmail.com:
       name: "Sushant"
       password: "$2b$12$q3QJQQHh9Kdzk4KaoK241u5TGry1YdES9NQZDryyw1ZPZXUb3RjAa"
       role: "user"
-      email: "xyz@yahoo.com"  # Add email field
-    Ashwin:
+      email: "sushant@gmail.com"  # Add email field
+    ashwin@gmail.com:
       name: "Ashwin Vyas"
       password: "$2b$12$eto8XIWlyzmviKKom4eBDOe6JtCh0HO7mcS1Bd.RtnlCfSC5GIQKu"
       role: "user"
-      email: "xyz@yahoo.com"  # Add email field
+      email: "ashwin@gmail.com"  # Add email field
+    varun@gmail.com:
+      name: "Varun K"
+      password: "$2b$12$7AWavWc1dl3zRhwEAMIYH.nVA3z1dyApgLSf4/zKKbhHrZDkPTHxe"
+      role: "user"
+      email: "varun@gmail.com"  # Add email field
+    navika@gmail.com:
+      name: "Navika K"
+      password: "$2b$12$IChAIyNN19Fn.93Tlt3RFes2PXsqKKkkXuoFRLH7p4Axb0akzV8FO"
+      role: "user"
+      email: "varun@gmail.com"  # Add email field
+
+
+
+
 blocked_users:
-  - xyz1@gmail.com
+  - xyz7@gmail.com
